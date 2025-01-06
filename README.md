@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
   <img width="12" />
